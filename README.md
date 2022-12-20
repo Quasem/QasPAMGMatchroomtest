@@ -61,7 +61,7 @@ Then I will be shown the VOD content below.
 
 ## Part 2 
 
-I have chosen Cypress as my automation tool to complete this task. It was a tool i am more familiar with as ia have useed it in the past. I also felt that cypress is one of main tools currently used by companies to automate. It has an ease of use and i find there are alot of upto date tutorials online. And I am sure it is used by PA Media group. 
+I have chosen Cypress as my automation tool to complete this task. It was a tool I am more familiar with as I have useed it in the past. I also felt that cypress is one of main tools currently used by companies to automate. It has an ease of use and i find there are alot of upto date tutorials online. And I am sure it is used by PA Media group. 
 
 During this task I felt i was able to meet on Acceptance criteria and the strech feature. I have tested all the points in the requirements and also where i found it to be a bit ambiguous with the Search bar, i create tests for both. I could maybe have tested more different sports or maybe tested filtering all sports and competitions one by one and seeing how that affects the website. There are also time contraints on the test to being a few hours which i didnt want to be penalised for. 
 
